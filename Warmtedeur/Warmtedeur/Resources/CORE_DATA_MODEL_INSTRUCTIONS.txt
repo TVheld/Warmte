@@ -1,0 +1,14 @@
+Core Data Model Setup (one-time in Xcode):
+- Create a new Data Model file named 'WarmteverliesModel'.
+- Add an Entity: 'CDRecord'
+  Attributes:
+    - id: UUID
+    - date: Date
+    - location: String
+    - doorWidth: Double
+    - tempInside: Double
+    - tempOutside: Double
+    - lossMJ: Double
+    - savedM3: Double
+    - savedEUR: Double
+Set Module to 'Current Product Module'. Regenerate NSManagedObject subclass if desired.
