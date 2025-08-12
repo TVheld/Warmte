@@ -1,0 +1,5 @@
+Datum,Locatie,Deurbreedte,TempBinnen,TempBuiten,WarmteverliesMJ,GasBesparingM3,KostenBesparingEUR
+01-08-2025,Hal A,2.5,20,5,120,8.2,12.50
+02-08-2025,Hal A,2.5,20,6,115,7.9,12.10
+02-08-2025,Magazijn B,3.0,19,7,160,10.1,16.90
+03-08-2025,Laaddeur C,4.0,18,8,210,12.2,22.70
